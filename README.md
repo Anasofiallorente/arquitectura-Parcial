@@ -18,7 +18,8 @@ Este proyecto está dividido en 4 archivos independientes que trabajan juntos me
 ## Instrucciones de Ejecución
 
 1. Abre tu terminal o consola de comandos.
-2. Navega hasta la carpeta donde guardaste los 4 archivos:
+2. descarga los archivos y guardalos en una carpeta 
+3. Navega hasta la carpeta donde guardaste los 4 archivos:
    
 ```bash
    cd ruta/a/tu/carpeta
