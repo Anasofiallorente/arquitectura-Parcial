@@ -2,11 +2,8 @@
 Henry Muñoz , Ana Llorente , Sofia Gomez
 # Simulador de ALU, LMC y Paralelismo en Python
 
-Este proyecto está dividido en 4 archivos independientes que trabajan juntos mediante módulos de Python. Su objetivo es simular una unidad aritmético-lógica (ALU), un pequeño ordenador didáctico (LMC) y medir el rendimiento del procesamiento paralelo usando múltiples núcleos.
+Este proyecto está dividido en 4 archivos independientes que trabajan juntos mediante módulos de Python. Su objetivo es simular una unidad ALU, un pequeño ordenador  LMC y medir el rendimiento del procesamiento paralelo usando múltiples núcleos.
 
-## Estructura del Proyecto
-
-Asegúrate de tener todos los archivos dentro de la **misma carpeta**:
 
 1. `alu.py` - Contiene la lógica de la calculadora (ALU).
 2. `lmc.py` - Contiene el simulador del *Little Man Computer* (LMC).
@@ -16,7 +13,7 @@ Asegúrate de tener todos los archivos dentro de la **misma carpeta**:
 ## Requisitos Previos
 
 * Tener instalado **Python 3** en tu computadora.
-* No se requiere instalar librerías externas adicionales, ya que todo utiliza las librerías nativas de Python (`time`, `random`, `multiprocessing`).
+
 
 ## Instrucciones de Ejecución
 
